@@ -4,7 +4,7 @@
     <nav class="fixed top-0 z-50 w-full">
       <div
         :class="[
-          y >= 120 ? 'bg-opacity-60 backdrop-blur-sm' : 'bg-opacity-0 pt-7',
+          y >= 120 ? 'bg-opacity-60 backdrop-blur-sm' : 'bg-opacity-0 pt-6',
         ]"
         class="bg-dark px-4 pt-3 pb-2 transition-all duration-300"
       >
