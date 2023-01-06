@@ -139,7 +139,7 @@ const handleCloseNavbar = () => {
 const navigation = ref([
   { name: 'Início', href: 'home', current: false },
   { name: 'Sobre', href: 'about', current: false },
-  { name: 'Atistas', href: 'artist', current: false },
+  { name: 'Artistas', href: 'artist', current: false },
   { name: 'Esporte', href: 'sport', current: false },
   { name: 'Contatos', href: 'contact', current: false },
 ])
